@@ -1,0 +1,5 @@
+libjson-path-perl (0.420-1) bionic; urgency=medium
+
+  * Initial packaging.
+
+ -- Mark Buda <hermit@acm.org>  Sun, 03 Mar 2019 06:50:23 -0500

@@ -1,0 +1,19 @@
+Source: libjson-path-perl
+Section: perl
+Priority: optional
+Maintainer: Mark Buda <hermit@acm.org>
+Build-Depends: debhelper (>= 10)
+Standards-Version: 4.1.2
+Homepage: https://github.com/popefelix/p5-json-path
+Vcs-Git: https://github.com/quarkbuddha/p5-json-path
+Vcs-Browser: https://github.com/quarkbuddha/p5-json-path
+
+Package: libjson-path-perl
+Architecture: all
+Depends: ${misc:Depends}
+Description: This module implements JSONPath
+ This module implements JSONPath, an XPath-like language for searching
+ JSON-like structures.
+ .
+ JSONPath is described at
+ [http://goessner.net/articles/JsonPath/](http://goessner.net/articles/JsonPath/)
